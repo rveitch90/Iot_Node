@@ -1,0 +1,56 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow addressText="" bufferWidth="-1" bufferHeight="-1" addressSpace="" />
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="IoT_RTOS_base" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Application" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Application;User" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers;STM32F4xx_HAL_Driver" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Middlewares" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Middlewares;IotNode" name="unnamed" />
+  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Source Files" name="unnamed" />
+  <SourceCodeControlLogin password="4C3B8DB2BD9CE683319E12020F0AF859" user="azizbahri90@gmail.com" />
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" />
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Src/main.c" y="85" path="C:/Users/aziz/Documents/GitHub/IoTNode/Src/main.c" left="0" selected="0" name="unnamed" top="72" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/src/iots_system.c" y="27" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/src/iots_system.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/Inc/iots_system.h" y="15" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/Inc/iots_system.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/src/iots_physical.c" y="21" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/src/iots_physical.c" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/Inc/iots_physical.h" y="7" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/Inc/iots_physical.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" y="202" path="C:/Users/aziz/Documents/GitHub/IoTNode/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" left="0" selected="0" name="unnamed" top="174" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h" y="435" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h" left="0" selected="0" name="unnamed" top="392" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Src/stm32f4xx_it.c" y="85" path="C:/Users/aziz/Documents/GitHub/IoTNode/Src/stm32f4xx_it.c" left="0" selected="1" name="unnamed" top="48" />
+ </Files>
+ <ARMCrossStudioWindow activeProject="IoT_RTOS_base" autoConnectTarget="ST-LINK/V2" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/src" fileDialogDefaultFilter="*.c" autoConnectCapabilities="266111" debugSearchPath="" buildConfiguration="THUMB Debug" />
+</session>
