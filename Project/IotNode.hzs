@@ -18,7 +18,6 @@
   <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers" name="unnamed" />
   <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Drivers;STM32F4xx_HAL_Driver" name="unnamed" />
   <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Middlewares" name="unnamed" />
-  <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Middlewares;IotNode" name="unnamed" />
   <ProjectSessionItem path="IoT_RTOS_base;IoT_RTOS_base;Source Files" name="unnamed" />
   <SourceCodeControlLogin password="4C3B8DB2BD9CE683319E12020F0AF859" user="azizbahri90@gmail.com" />
  </Project>
@@ -50,7 +49,8 @@
   <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/Inc/iots_physical.h" y="7" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/Inc/iots_physical.h" left="0" selected="0" name="unnamed" top="0" />
   <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" y="202" path="C:/Users/aziz/Documents/GitHub/IoTNode/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c" left="0" selected="0" name="unnamed" top="174" />
   <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h" y="435" path="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h" left="0" selected="0" name="unnamed" top="392" />
-  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Src/stm32f4xx_it.c" y="85" path="C:/Users/aziz/Documents/GitHub/IoTNode/Src/stm32f4xx_it.c" left="0" selected="1" name="unnamed" top="48" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/IoTNode/Src/stm32f4xx_it.c" y="66" path="C:/Users/aziz/Documents/GitHub/IoTNode/Src/stm32f4xx_it.c" left="0" selected="0" name="unnamed" top="48" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Default" x="0" debugPath="C:/Users/aziz/Documents/GitHub/Iot_Node/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c" y="1204" path="C:/Users/aziz/Documents/GitHub/Iot_Node/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c" left="0" selected="1" name="unnamed" top="1192" />
  </Files>
  <ARMCrossStudioWindow activeProject="IoT_RTOS_base" autoConnectTarget="ST-LINK/V2" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/aziz/Documents/GitHub/IoTNode/Middlewares/IotNode/src" fileDialogDefaultFilter="*.c" autoConnectCapabilities="266111" debugSearchPath="" buildConfiguration="THUMB Debug" />
 </session>
